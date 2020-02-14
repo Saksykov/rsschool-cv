@@ -17,3 +17,8 @@
 * [_SibGUTI 2021_](https://sibsutis.ru/)
 ### Languages:
 * [_English (Pre-Intermediate)_](https://geekbrains.ru/certificates/592571?89fd774598ed280a5afce2db18ded2a5)
+### Skills:
+* [_Java_](https://javarush.ru/users/1589549)
+* [_Python_](https://github.com/Saksykov/Stepik_Python_Courses)
+* [_HTML CSS_](https://htmlacademy.ru/profile/id607269)
+* [_JavaScript_](https://stepik.org/cert/281937)
