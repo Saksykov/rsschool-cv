@@ -1,0 +1,12 @@
+body {
+    padding: 40%;
+    padding-top: 0%;
+}
+
+h1, li {
+    font-style: italic;
+}
+
+img {
+    border-radius: 20px;
+}
