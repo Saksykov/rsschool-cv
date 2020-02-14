@@ -15,3 +15,5 @@
 ### Education:
 * [_SibGUFK 2004_](https://sibsport.ru/)
 * [_SibGUTI 2021_](https://sibsutis.ru/)
+### Languages:
+* [_English (Pre-Intermediate)_](https://geekbrains.ru/certificates/592571?89fd774598ed280a5afce2db18ded2a5)
