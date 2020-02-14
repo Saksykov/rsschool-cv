@@ -22,3 +22,8 @@
 * [_Python_](https://github.com/Saksykov/Stepik_Python_Courses)
 * [_HTML CSS_](https://htmlacademy.ru/profile/id607269)
 * [_JavaScript_](https://stepik.org/cert/281937)
+### Courses:
+* [_Java. Базовый курс_](https://stepik.org/course/187)
+* [_Программирование на Python_](https://stepik.org/course/67)
+* [_Веб-разработка для начинающих: HTML и CSS_](https://stepik.org/course/38218)
+* [_JavaScript для начинающих_](https://stepik.org/course/2223)
